@@ -79,7 +79,18 @@ docs/
 ## 要求
 
 - MiMo Desktop（含 MiMoCode 引擎）
-- grill-me 或 grilling 技能（均已内置，无需额外安装）
+- [grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) 或 [grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling) 技能（规划身份的拷问对齐依赖此技能，需额外安装，两者等价任选其一）
+
+### 安装 grill-me / grilling
+
+从 [mattpocock/skills](https://github.com/mattpocock/skills) 获取，复制到技能目录：
+
+```bash
+git clone https://github.com/mattpocock/skills.git
+cp -r skills/skills/productivity/grilling ~/.config/mimocode/skills/grilling
+```
+
+> MiMo Desktop 的技能目录：Windows 为 `%USERPROFILE%\.config\mimocode\skills\`，macOS / Linux 为 `~/.config/mimocode/skills/`。
 
 ## License
 

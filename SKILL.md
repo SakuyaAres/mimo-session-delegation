@@ -102,7 +102,7 @@ MiMo Desktop 会话投递存在跳数限制。为防止链式累积：
 
 ### 2.1 拷问对齐
 
-使用 **grill-me / grilling 技能**（两者等价，grill-me 是 grilling 的别名，均已内置无需安装）进行需求拷问：
+使用 **grill-me / grilling 技能**（两者等价，grill-me 是 grilling 的别名；来自 [mattpocock/skills](https://github.com/mattpocock/skills) 仓库，需额外安装）进行需求拷问。若未安装，告知用户如何安装，或直接用内置的 Question 式选项交互模拟拷问流程：
 
 - 以 Question 式选项逐题向用户提问
 - 每题给出推荐答案，用户确认或修改
