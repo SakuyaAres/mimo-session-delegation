@@ -1,4 +1,4 @@
 {
   "displayName": "Session Delegation",
-  "brief": "Identity-based roles (Planning/Supervisor/Implementation) with unified registry; delegate, hand off, and coordinate work across worker sessions"
+  "brief": "Identity-based roles (Planning/Supervisor/Implementation) with registry & rulings ledger; delegate, run full-auto pipelines, hand off, and coordinate across worker sessions"
 }
